@@ -1,0 +1,20 @@
+name: regression-masterclass
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn=1.1.3
+  - statsmodels
+  - imbalanced-learn
+  - joblib
+  - ipykernel
+  - nbformat
+  - nbconvert
+  - mistune
